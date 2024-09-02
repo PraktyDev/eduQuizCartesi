@@ -1,0 +1,82 @@
+ [
+    {
+        "question": "What is 2 + 2?",
+        "options": ["3", "4", "5"],
+        "correctAnswer": 1
+    },
+    {
+        "question": "Which keyword is used to define a function in JavaScript?",
+        "options": ["function", "def", "func"],
+        "correctAnswer": 0
+    },
+    {
+        "question": "What does HTML stand for?",
+        "options": ["HyperText Markup Language", "HighText Markup Language", "HyperText Markup Layer"],
+        "correctAnswer": 0
+    },
+    {
+        "question": "What is the output of `console.log(2 + '2')` in JavaScript?",
+        "options": ["22", "4", "Error"],
+        "correctAnswer": 0
+    },
+    {
+        "question": "Which method is used to remove the last element from an array in JavaScript?",
+        "options": ["pop()", "push()", "shift()"],
+        "correctAnswer": 0
+    },
+    {
+        "question": "In Python, what is the output of `print(3 * 'abc')`?",
+        "options": ["abcabcabc", "3abc", "abcabc"],
+        "correctAnswer": 0
+    },
+    {
+        "question": "What is the result of `5 == '5'` in JavaScript?",
+        "options": ["true", "false", "undefined"],
+        "correctAnswer": 0
+    },
+    {
+        "question": "Which of the following is not a JavaScript data type?",
+        "options": ["Boolean", "String", "Character"],
+        "correctAnswer": 2
+    },
+    {
+        "question": "What does CSS stand for?",
+        "options": ["Cascading Style Sheets", "Creative Style Sheets", "Computer Style Sheets"],
+        "correctAnswer": 0
+    },
+    {
+        "question": "In which language was the first web browser written?",
+        "options": ["C", "Java", "Python"],
+        "correctAnswer": 0
+    },
+    {
+        "question": "What is the default port number for HTTP?",
+        "options": ["80", "443", "21"],
+        "correctAnswer": 0
+    },
+    {
+        "question": "Which operator is used to concatenate strings in JavaScript?",
+        "options": ["+", "*", "&"],
+        "correctAnswer": 0
+    },
+    {
+        "question": "In SQL, which keyword is used to retrieve data from a database?",
+        "options": ["GET", "SELECT", "FETCH"],
+        "correctAnswer": 1
+    },
+    {
+        "question": "What is the output of `typeof null` in JavaScript?",
+        "options": ["object", "null", "undefined"],
+        "correctAnswer": 0
+    },
+    {
+        "question": "Which HTML tag is used to define an internal style sheet?",
+        "options": ["<style>", "<script>", "<css>"],
+        "correctAnswer": 0
+    },
+    {
+        "question": "In Python, what symbol is used to denote comments?",
+        "options": ["#", "//", "--"],
+        "correctAnswer": 0
+    }
+]
